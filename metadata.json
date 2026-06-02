@@ -1,0 +1,6 @@
+{
+  "name": "Titan HealthConnect",
+  "description": "A comprehensive campus healthcare portal connecting students and medical staff with appointment booking, vital logs, AI triaging, and one-click location-tracked Emergency SOS dispatcher.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
